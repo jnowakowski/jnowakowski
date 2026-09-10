@@ -22,7 +22,6 @@ These are examples of my professional experience. The public repositories below 
 
 ## Selected public work
 
-- [Revit E2E tests](https://github.com/jnowakowski/revit-e2e-tests): a test runner and UI exploration server for Revit plugins, with recorded observations and repeatable test journeys.
 - [BitMan](https://bitman.ch/): technology services for small and medium businesses, supported by a multilingual [website](https://github.com/jnowakowski/bitman-ch).
 
 My wider work includes Bitcoin interviews and technology reporting. You can find those alongside my professional background on [CloudIndustry](https://cloudindustry.ch/).
