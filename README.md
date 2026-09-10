@@ -1,33 +1,34 @@
 # Janusz Nowakowski
 
-**Cloud & Infrastructure Lead | Senior SRE | Bitcoin Infrastructure Enthusiast**
+**Fractional CTO & hands-on technology partner · Bern, Switzerland**
 
-I’m an engineer with 30 years in IT. I build large-scale, cloud-native platforms and lead SRE and DevOps teams across regulated and high-performance environments.  
-My focus is automation, reliability, and simplicity.
+I work with founders and business leaders who need someone to take responsibility for technical decisions and turn a business goal into a working product or platform.
 
-I’ve led teams and delivered solutions for companies like **Roche, Hilti, Sygnum Bank, Google,** and **BIS** — designing secure, scalable systems on **AWS, Azure, and Kubernetes**.
+Through [CloudIndustry](https://cloudindustry.ch/), I work across architecture, implementation and engineering leadership. I write code, coordinate development and make technical choices in the context of what the business needs to achieve.
 
-Beyond cloud work, I’m a [Bitcoiner](https://cloudindustry.ch/bitcoin/) and active in the **Bitcoin and Lightning** ecosystem.  
-I write and interview at [Lightning.News](https://lightning.news/author/janusz/) — a publication that connects Bitcoin builders with the business world.
+## Where I can help
 
----
+- **Building a product:** work with the founder to define the technical approach, build the software and guide delivery.
+- **Developing a platform:** take ownership of architecture, integrations and infrastructure, with reliability and maintainability in mind.
+- **Leading a defined project:** agree the scope, make progress and trade-offs visible, and deliver a result the client’s team can operate and develop further.
 
-### What I Do
-- Design and automate multi-cloud infrastructure  
-- Build CI/CD pipelines that engineers actually like  
-- Lead SRE teams for reliability and scale  
-- Integrate systems with security and compliance in mind  
-- Write code to keep things running clean
+## Selected experience
 
----
+- **Graftd:** working directly with the founder on platform architecture, product development and engineering coordination.
+- **Roche:** architecture, development and delivery of a machine learning platform for data scientists using AWS, Kubernetes and Kubeflow; Development Lead during the final six months of the engagement.
+- **UPU:** cloud search architecture assessment, address-data ingestion into Elasticsearch, deployment, performance testing and support for the team.
 
-### Technologies I use
-`AWS` `Azure` `Kubernetes` `Terraform` `GitLab` `Istio` `Python` `Linux` `CI/CD` `ArgoCD` `Prometheus` `Grafana`
+These are examples of my professional experience. The public repositories below show selected tools and projects, rather than the full body of client work.
 
----
+## Selected public work
 
-### Find me
-🌐 [cloudindustry.ch](https://cloudindustry.ch)  
-📍 Bern, Switzerland  
-📫 [jnowakowski@gmail.com](mailto:jnowakowski@gmail.com)  
-🔗 [linkedin.com/in/nowakowskijanusz](https://linkedin.com/in/nowakowskijanusz)
+- [Revit E2E tests](https://github.com/jnowakowski/revit-e2e-tests): a test runner and UI exploration server for Revit plugins, with recorded observations and repeatable test journeys.
+- [BitMan](https://bitman.ch/): technology services for small and medium businesses, supported by a multilingual [website](https://github.com/jnowakowski/bitman-ch).
+
+My wider work includes Bitcoin interviews and technology reporting. You can find those alongside my professional background on [CloudIndustry](https://cloudindustry.ch/).
+
+## Discuss a project
+
+If you need someone to own the technical direction and help deliver it, tell me what you want to build or change.
+
+[Explore my work and contact me](https://cloudindustry.ch/) · [LinkedIn](https://www.linkedin.com/in/nowakowskijanusz/)
