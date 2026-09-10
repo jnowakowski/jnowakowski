@@ -18,11 +18,9 @@ Through [CloudIndustry](https://cloudindustry.ch/), I work across architecture, 
 - **Roche:** architecture, development and delivery of a machine learning platform for data scientists using AWS, Kubernetes and Kubeflow; Development Lead during the final six months of the engagement.
 - **UPU:** cloud search architecture assessment, address-data ingestion into Elasticsearch, deployment, performance testing and support for the team.
 
-These are examples of my professional experience. The public repositories below show selected tools and projects, rather than the full body of client work.
+## Other work
 
-## Selected public work
-
-- [BitMan](https://bitman.ch/): technology services for small and medium businesses, supported by a multilingual [website](https://github.com/jnowakowski/bitman-ch).
+[BitMan](https://bitman.ch/) is my technology services practice for small and medium businesses: consulting, websites and software, integrations and automation, infrastructure and security.
 
 My wider work includes Bitcoin interviews and technology reporting. You can find those alongside my professional background on [CloudIndustry](https://cloudindustry.ch/).
 
