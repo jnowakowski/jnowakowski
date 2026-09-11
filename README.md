@@ -2,6 +2,15 @@
 
 **Fractional CTO · Technology partner · Architecture, engineering leadership & delivery**
 
+## Working together
+I bring nearly 30 years in technology, including 12 years as CTO in a manufacturing business, alongside experience in global technology companies, industrial software, banking and independent consulting.
+
+I can join as a fractional CTO or technology partner, or take responsibility for a defined project from architecture through delivery. The starting point is your business objective, the decisions that need to be made and the responsibility you want me to take on.
+
+**Have a product to build, a platform to change or an important technical decision to make? [Let's discuss it at CloudIndustry](https://cloudindustry.ch/).**
+
+Bern, Switzerland · [LinkedIn](https://www.linkedin.com/in/nowakowskijanusz/)
+
 I work with founders and business leaders who need someone to take responsibility for the technology behind their business. I turn business objectives into technical decisions, lead the engineering work and build the solution with the team.
 
 My experience combines **professional services for Google, Roche, Hilti and the Bank for International Settlements** with **independent consulting and product partnerships through [CloudIndustry](https://cloudindustry.ch/)**. Across both, my work connects the business goal, the architecture, the people and the implementation.
@@ -45,13 +54,3 @@ I work with the founders on the development of their dance platform, connecting 
 ### BitMan: technology consulting for smaller businesses
 
 Through [BitMan](https://bitman.ch/), I work with small and medium businesses on technology decisions and practical delivery: software and websites, integrations, automation, infrastructure and security. The business owner has one person to discuss the need with and work through the implementation.
-
-## Working together
-
-I bring nearly 30 years in technology, including 12 years as CTO in a manufacturing business, alongside experience in global technology companies, industrial software, banking and independent consulting.
-
-I can join as a fractional CTO or technology partner, or take responsibility for a defined project from architecture through delivery. The starting point is your business objective, the decisions that need to be made and the responsibility you want me to take on.
-
-**Have a product to build, a platform to change or an important technical decision to make? [Let's discuss it at CloudIndustry](https://cloudindustry.ch/).**
-
-Bern, Switzerland · [LinkedIn](https://www.linkedin.com/in/nowakowskijanusz/)
